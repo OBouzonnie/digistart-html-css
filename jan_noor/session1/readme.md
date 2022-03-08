@@ -6,8 +6,6 @@
 
 ## Fichiers à modifier pour l'exercice
 
-- `index.html`
-
 ## Instructions
 
 - Ouvrir le fichier `index.html`
