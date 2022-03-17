@@ -1,0 +1,34 @@
+div {
+    background-color: grey;
+  }
+
+  p {
+      color:red;
+  }
+img {
+    border:black;
+}
+contenu-mixe {
+ text-align:center;
+}
+.contenu-texte {
+font-family:Arial;font-size: 18px;
+}
+#section-1 {
+background-color: blue;
+}
+#section-2 {
+background-color: orange;
+}
+#section-3 {
+background-color:purple;
+}
+contenu-mixte,p {
+text-align:right;
+}
+#section-3, p {
+text-align: justify;
+}
+#section-3, p{
+    ba
+}

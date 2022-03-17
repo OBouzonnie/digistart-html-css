@@ -14,7 +14,10 @@ img {
   color: orange;
 }
 #section-3 {
+  text-align: right;
   color: purple;
 }
 .contenu-mixte {
+  text-align: right;
 }
+

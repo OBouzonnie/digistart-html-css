@@ -2,3 +2,19 @@ p
 { color: red
 p
 }
+
+#section-3 {
+    color: purple;
+  }
+
+
+.contenu-mixte p {
+    text-align: right;
+  }
+
+p
+{
+    text-align: justify;
+    color : #000;
+    background-color: #fff;
+  }
