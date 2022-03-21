@@ -1,0 +1,32 @@
+body {
+  font-family: Arial;
+  margin: 0px;
+}
+nav {
+  display: flex;
+  max-width: 70px;
+}
+.secondary-block {
+  background-color: rgb(4, 117, 186);
+  color: white;
+}
+a {
+  color: white;
+}
+
+nav h2 {
+  margin: 0px;
+  padding-top: 15px;
+  padding-right: 0px;
+  padding-bottom: 20px;
+  padding-left: 15px;
+}
+nav ul {
+  display: flex;
+  margin: 0px;
+  padding: 24px;
+  list-style: none;
+}
+nav li {
+  margin-left: 15px;
+}
