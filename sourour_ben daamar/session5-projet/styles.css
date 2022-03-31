@@ -5,7 +5,7 @@ margin: 0%;
 }
 nav{
     height: 70px;
- display: flex;
+    display: flex;
 }
 .secondary-block{
   color: white;
@@ -42,18 +42,4 @@ header img{
     width: 150px;
     border-radius:75px ;
     box-shadow: 3px,3px,6px;color: rgb(170,170,170); 
-}
-section{
-    padding:40px;
-}
-#xp ul{
-margin:0 ;
-padding: 0;
-list-style: none;
-}
-#xp li{
-margin-bottom: 10px;
-}
-#xp aside{
-float:right ;
 }
